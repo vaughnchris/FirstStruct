@@ -32,4 +32,4 @@ This lab involves two main data structures, `Ticket` and `Show`. Here is a visua
                              | + setShowTime(int)         |
                              +----------------------------+
 
-  [ + = public member,  - = private member ]
+  [ + = public member,  - = private member ] 

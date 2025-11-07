@@ -3,4 +3,8 @@ project(FirstStruct)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(FirstStruct main.cpp)
+add_executable(FirstStruct main.cpp
+        Ticket.h
+        Show.h
+        Show.cpp
+)

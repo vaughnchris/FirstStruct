@@ -1,4 +1,4 @@
-# CSCI-271: Theater Ticket Structs Lab
+# 🍿 CSCI-271: Theater Ticket Structs Lab
 
 Welcome to the Structs and Data Hiding Lab! This project is designed to give you hands-on practice with C++ `struct`s, starting with simple data structures and moving to more complex data hiding with accessors and mutators.
 
